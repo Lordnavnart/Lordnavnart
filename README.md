@@ -1,21 +1,3 @@
-Canceled fetch actual content of user's README.md from GitHub
-Checked task Fetch actual content of user's README.md from GitHub
-Killed task Fetch actual content of user's README.md from GitHub
-Ran fetch raw README.md content
-
-À mình thấy nguyên nhân rồi! Khi bạn copy đoạn code ở trên, **bạn mới chỉ bôi đen được nửa đầu** (đến đoạn `const long = { ... }`), phần kỹ năng và bảng thống kê ở bên dưới chưa được copy hết nên nó chưa hiện ra!
-
-Để đỡ phải dùng chuột kéo bôi đen dễ bị thiếu, bạn làm như sau nhé:
-
----
-
-### 👉 Cách copy nhanh không bị thiếu:
-
-Rê chuột vào **góc trên bên phải của khung code bên dưới**, bạn sẽ thấy nút **📋 Copy code** (hoặc nhấn giữ `Ctrl + A` bên trong khung code nếu có).
-
-Sau đó bấm vào **cây bút ✏️** trong GitHub, xóa hết đi và dán lại toàn bộ:
-
-```markdown
 <div align="center">
 
   <!-- Banner chuyển màu sóng động -->
